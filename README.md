@@ -8,6 +8,7 @@
 - [Drupal Commerce to X-Cart Migration](https://d2d-soft.com/xcart-migration/368-drupal-commerce-to-x-cart-migration-service.html)
 - [HikaShop to X-Cart Migration](https://d2d-soft.com/xcart-migration/465-1922-hikashop-to-x-cart-migration-tool.html#/72-entities-1000)
 - [J2Store to X-Cart Migration](https://d2d-soft.com/xcart-migration/508-2117-j2store-to-x-cart-migration-tool.html#/72-entities-1000)
+- [JigoShop to X-Cart Migration](https://d2d-soft.com/xcart-migration/558-2347-jigoshop-to-x-cart-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to X-Cart Migration](https://d2d-soft.com/xcart-migration/244-1122-loaded-to-x-cart-migration-tool.html#/72-entities-1000)
 - [Magento to X-Cart Migration](https://d2d-soft.com/xcart-migration/245-1127-magento-to-x-cart-migration-tool.html#/72-entities-1000)
 - [OpenCart to X-Cart Migration](https://d2d-soft.com/xcart-migration/246-1132-opencart-to-x-cart-migration-tool.html#/72-entities-1000)
@@ -29,6 +30,7 @@
 - [Drupal Commerce](https://drupalcommerce.org/)
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
+- JigoShop
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - [OpenCart](https://www.opencart.com/)

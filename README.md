@@ -9,8 +9,10 @@
 - [HikaShop to X-Cart Migration](https://d2d-soft.com/xcart-migration/465-1922-hikashop-to-x-cart-migration-tool.html#/72-entities-1000)
 - [J2Store to X-Cart Migration](https://d2d-soft.com/xcart-migration/508-2117-j2store-to-x-cart-migration-tool.html#/72-entities-1000)
 - [JigoShop to X-Cart Migration](https://d2d-soft.com/xcart-migration/558-2347-jigoshop-to-x-cart-migration-tool.html#/72-entities-1000)
+- [JoomShopping to X-Cart Migration](https://d2d-soft.com/xcart-migration/608-2587-joomshopping-to-x-cart-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to X-Cart Migration](https://d2d-soft.com/xcart-migration/244-1122-loaded-to-x-cart-migration-tool.html#/72-entities-1000)
 - [Magento to X-Cart Migration](https://d2d-soft.com/xcart-migration/245-1127-magento-to-x-cart-migration-tool.html#/72-entities-1000)
+- [MarketPress to X-Cart Migration](https://d2d-soft.com/xcart-migration/583-2467-marketpress-to-x-cart-migration-tool.html#/72-entities-1000)
 - [OpenCart to X-Cart Migration](https://d2d-soft.com/xcart-migration/246-1132-opencart-to-x-cart-migration-tool.html#/72-entities-1000)
 - [osCommerce to X-Cart Migration](https://d2d-soft.com/xcart-migration/247-1137-oscommerce-to-x-cart-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to X-Cart Migration](https://d2d-soft.com/xcart-migration/248-1142-oxid-eshop-to-x-cart-migration-tool.html#/72-entities-1000)
@@ -31,8 +33,10 @@
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
 - JigoShop
+- [JoomShopping](https://extensions.joomla.org/extension/joomshopping/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
+- MarketPress
 - [OpenCart](https://www.opencart.com/)
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
@@ -51,3 +55,8 @@ The tool is standalone software. You only upload the tool to your server. You do
 ## License
 
 [AFL](https://d2d-soft.com/license/AFL.txt)
+
+## Contact US
+Website: https://d2d-soft.com/ \
+Email: contact@d2d-soft.com \
+Youtube: https://www.youtube.com/@d2dsoft 

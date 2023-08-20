@@ -12,6 +12,7 @@
 - [J2Store to X-Cart Migration](https://d2d-soft.com/xcart-migration/508-2117-j2store-to-x-cart-migration-tool.html#/72-entities-1000)
 - [JigoShop to X-Cart Migration](https://d2d-soft.com/xcart-migration/558-2347-jigoshop-to-x-cart-migration-tool.html#/72-entities-1000)
 - [JoomShopping to X-Cart Migration](https://d2d-soft.com/xcart-migration/608-2587-joomshopping-to-x-cart-migration-tool.html#/72-entities-1000)
+- [LiteCart to X-Cart Migration](https://d2d-soft.com/xcart-migration/894-8377-litecart-to-x-cart-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to X-Cart Migration](https://d2d-soft.com/xcart-migration/244-1122-loaded-to-x-cart-migration-tool.html#/72-entities-1000)
 - [Magento to X-Cart Migration](https://d2d-soft.com/xcart-migration/245-1127-magento-to-x-cart-migration-tool.html#/72-entities-1000)
 - [MarketPress to X-Cart Migration](https://d2d-soft.com/xcart-migration/583-2467-marketpress-to-x-cart-migration-tool.html#/72-entities-1000)
@@ -42,6 +43,7 @@
 - [J2Store](https://www.j2store.org/)
 - JigoShop
 - [JoomShopping](https://extensions.joomla.org/extension/joomshopping/)
+- [LiteCart](https://www.litecart.net/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - MarketPress

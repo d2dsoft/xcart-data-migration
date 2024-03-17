@@ -2,6 +2,7 @@
 [X-Cart Data Migration Tool](https://d2d-soft.com/29-xcart-migration) is a solution for migrating data to X-Cart from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AbanteCart to X-Cart Migration](https://d2d-soft.com/xcart-migration/1141-10879-abantecart-to-x-cart-migration-tool.html#/72-entities-1000)
 - [AmeriCommerce to X-Cart Migration](https://d2d-soft.com/xcart-migration/787-7264-americommerce-to-x-cart-migration-tool.html#/72-entities-1000)
 - [Bagisto to X-Cart Migration](https://d2d-soft.com/xcart-migration/953-8972-bagisto-to-x-cart-migration-tool.html#/72-entities-1000)
 - [BigCommerce to X-Cart Migration](https://d2d-soft.com/xcart-migration/429-1747-bigcommerce-to-x-cart-migration-tool.html#/72-entities-1000)
@@ -36,6 +37,7 @@
 - [ZenCart to X-Cart Migration](https://d2d-soft.com/xcart-migration/255-1177-zencart-to-x-cart-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AbanteCart](https://www.abantecart.com/)
 - [AmeriCommerce](https://www.americommerce.com/)
 - [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
